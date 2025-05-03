@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Dancing+Script:wght@400..700&display=swap');
+
+h1 {
+    color: pink;
+    font-size: 50px;
+    height: auto;
+    width: 100%;
+    font-family: "Dancing Script", cursive;   
+    text-align: center;
+   
+}
+body {
+    background-color: rgb(173, 33, 173); 
+    margin: 0;
+    padding: 0;
+}
+
+.crc {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.clique {
+    text-align: center;
+    margin: 20px 0;
+    color: pink;
+    font-weight: bold;
+}  
+
+.fileira1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .fileira1 img {
+    width: 50%;
+    height: auto;
+    margin: 40px;
+  }
+
+  .fileira2 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .fileira2 img {
+    width: 50%;
+    height: auto;
+    margin: 40px;
+  }
+
+  .fileira3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+  }
+  
+  .fileira3 img {
+    width: 50%;
+    height: auto;
+    margin: 40px;
+  }
+
+  .fileira4 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .fileira4 img {
+    width: 50%;
+    height: auto;
+    margin: 40px;
+  }
+
+  .fileira5 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .fileira5 img {
+    width: 50%;
+    height: auto;
+    margin: 40px;
+  }
+  
