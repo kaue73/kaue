@@ -1,0 +1,53 @@
+[Uploading lais.htm<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilolais.css">
+</head>
+<body>
+    <div class="conteudo">
+
+    <h1>LAIS GATA TE AMOO</h1>
+    <p class="clique">clique no coração para sentir meu amor</p>
+ <a href="nossasfotos.html">
+    <img class="crc" src="coracao.png" alt="amor da minha vida">
+</a>
+</div>
+</body>
+</html>l…]()
+
+
+[Up<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilolais.css">
+</head>
+<body>
+    <h1>Amor eu te amo, até demais...</h1>
+    <div class="fileira1">
+        <img class="foto1" src="foto1.jpg" alt="amor da minha vida">
+        <img class="foto2" src="foto2.jpg" alt="amor da minha vida">
+    </div>
+    <div class="fileira2">
+        <img class="foto3" src="foto3.jpg" alt="amor da minha vida">
+        <img class="foto4" src="foto4.jpg" alt="amor da minha vida">
+    </div>
+    <div class="fileira3">
+        <img class="foto5" src="foto5.jpg" alt="amor da minha vida">
+        <img class="foto6" src="foto6.jpg" alt="amor da minha vida">
+    </div>
+    <div class="fileira4">
+        <img class="foto7" src="foto7.jpg" alt="amor da minha vida">
+        <img class="foto8" src="foto8.jpg" alt="amor da minha vida">
+    </div>
+    <div class="fileira5">
+        <img class="foto9" src="foto9.jpg" alt="amor da minha vida">
+        <img class="foto10" src="foto10.jpg" alt="amor da minha vida">
+    </div>
+</body>
+</html>loading nossasfotos.html…]()
